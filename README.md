@@ -6,9 +6,11 @@ Built with **Streamlit + Plotly** on two synthetic datasets: a *high-friction* b
 
 ---
 
-## Live Demo
+## 🚀 Live Demo
 
-> Run locally — see [Quick Start](#quick-start) below.
+**[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fintech-funnel-analysis.streamlit.app/)**
+
+👉 [https://fintech-funnel-analysis.streamlit.app/](https://fintech-funnel-analysis.streamlit.app/)
 
 ---
 
