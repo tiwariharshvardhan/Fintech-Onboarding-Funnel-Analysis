@@ -10,7 +10,7 @@ Built with **Streamlit + Plotly** on two synthetic datasets: a *high-friction* b
 
 **[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fintech-funnel-analysis.streamlit.app/)**
 
-👉 [https://fintech-funnel-analysis.streamlit.app/](https://fintech-funnel-analysis.streamlit.app/)
+> Run locally — see [Quick Start](#quick-start) below.
 
 ---
 
@@ -127,13 +127,6 @@ Missing timestamps indicate the user dropped off at that stage.
 - **Heatmap** — red cells = broken steps for that segment; green = healthy
 - **Time-to-convert** — long P90 tails flag slow steps, not just leaky ones
 - **Compare Both mode** — read *high friction* as today's flow, *optimized* as a redesigned onboarding; the gap is the product opportunity
-
----
-
-## Author
-
-**Harsh Vardhan Tiwari**
-[GitHub](https://github.com/tiwariharshvardhan)
 
 ---
 
